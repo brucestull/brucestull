@@ -4,6 +4,7 @@
 
 - 😄 Pronouns: He/Him
 - My [Project Board](https://github.com/users/brucestull/projects/6/)
+- My [FlynntKnapp](https://github.com/FlynntKnapp/) organization
 
 <!--
 **brucestull/brucestull** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
