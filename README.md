@@ -2,7 +2,7 @@
 
 ![Bruce's GitHub stats](https://github-readme-stats.vercel.app/api?username=brucestull&theme=vue&show_icons=true)
 
-- 😄 Pronouns: He/Him
+- Pronouns: He/Him
 - My [Project Board](https://github.com/users/brucestull/projects/6/)
 - My [FlynntKnapp](https://github.com/FlynntKnapp/) organization
 
