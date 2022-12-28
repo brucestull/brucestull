@@ -8,6 +8,7 @@
 - 🌱 I’m currently learning:
     - GitHub Codespaces:
         - <https://github.com/brucestull/haikus-for-codespaces>
+    - React:
 
 <!--
 **brucestull/brucestull** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
