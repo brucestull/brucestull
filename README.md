@@ -8,6 +8,7 @@
 - 🌱 I’m currently learning:
     - GitHub Codespaces:
         - <https://github.com/brucestull/haikus-for-codespaces>
+        - <https://github.com/brucestull/codespaces-django-from-template>
     - React:
 
 <!--
