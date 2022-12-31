@@ -10,6 +10,8 @@
         - <https://github.com/brucestull/haikus-for-codespaces>
         - <https://github.com/brucestull/codespaces-django-from-template>
     - React:
+    - Docker:
+        - <https://code.visualstudio.com/docs/devcontainers/containers>
 
 <!--
 **brucestull/brucestull** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
