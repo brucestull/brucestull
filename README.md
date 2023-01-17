@@ -7,8 +7,6 @@
 - My [FlynntKnapp](https://github.com/FlynntKnapp/) organization
 - 🌱 I’m currently learning:
     - GitHub Codespaces:
-        - <https://github.com/brucestull/haikus-for-codespaces>
-        - <https://github.com/brucestull/codespaces-django-from-template>
     - React:
     - Docker:
         - <https://code.visualstudio.com/docs/devcontainers/containers>
