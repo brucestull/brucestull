@@ -9,10 +9,10 @@
 - My [Project Board](https://github.com/users/brucestull/projects/6/)
 - My [FlynntKnapp](https://github.com/FlynntKnapp/) organization
 - 🌱 I’m currently learning:
-    - GitHub Codespaces:
-    - React:
-    - Docker:
-        - <https://code.visualstudio.com/docs/devcontainers/containers>
+    - GitHub Codespaces
+    - React
+    - Docker
+    - Java review
 
 <!--
 **brucestull/brucestull** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
