@@ -3,6 +3,7 @@
 <!--
 ![Bruce's GitHub stats](https://github-readme-stats.vercel.app/api?username=brucestull&theme=vue&show_icons=true)
 -->
+![Snake Animation - courtesy of https://blog.arnabghosh.me/add-github-dark-snake-animation-readme](https://github.com/brucestull/brucestull/blob/output/github-contribution-grid-snake.svg)
 
 - Pronouns: He/Him
 - My [Project Board](https://github.com/users/brucestull/projects/6/)
