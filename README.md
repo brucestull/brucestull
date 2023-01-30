@@ -13,6 +13,8 @@
     - React
     - Docker
     - Java review
+    - Django password reset email
+    - Django auth with GitHub
 
 <!--
 **brucestull/brucestull** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
