@@ -9,7 +9,11 @@
 - My [Project Board](https://github.com/users/brucestull/projects/6/)
 - My [FlynntKnapp](https://github.com/FlynntKnapp/) organization
 - 🌱 I’m currently learning:
-    - GitHub Codespaces
+    - GitHub Codespaces:
+      - Source:
+        - <https://github.com/github/codespaces-django>
+      - My Repository:
+        - <https://github.com/brucestull/animated-palm-tree>
     - React
     - Docker
     - Java review
