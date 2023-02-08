@@ -8,7 +8,7 @@
 * Pronouns: He/Him
 * My [Project Board](https://github.com/users/brucestull/projects/6/)
 * My [FlynntKnapp](https://github.com/FlynntKnapp/) organization
-* 🌱 I’m currently learning:
+* 🌱 I’m currently learning and/or reviewing:
   * GitHub Codespaces:
     * Source:
       * <https://github.com/github/codespaces-django>
