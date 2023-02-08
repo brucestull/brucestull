@@ -10,6 +10,7 @@
 * My [FlynntKnapp](https://github.com/FlynntKnapp/) organization
 * 🌱 I’m currently learning and/or reviewing:
   * GitHub Codespaces:
+    * This will assist in understanding Docker since they are similar concepts.
     * Source:
       * <https://github.com/github/codespaces-django>
     * My Repository:
