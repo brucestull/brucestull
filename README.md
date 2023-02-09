@@ -14,7 +14,8 @@
     * Source:
       * <https://github.com/github/codespaces-django>
     * My Repository:
-      * <https://github.com/brucestull/animated-palm-tree>
+      * <https://github.com/brucestull/codespaces-django-starter>
+      <!-- * <https://github.com/brucestull/animated-palm-tree> -->
   * Django:
     * Django Testing:
       * <https://github.com/brucestull/bruce-stull-heroku>
