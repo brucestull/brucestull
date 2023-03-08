@@ -21,6 +21,8 @@
     * Django auth with GitHub
   * React
   * Java review
+  * MERN
+    * <https://github.com/brucestull/mern-stack-tutorial>
 
 ![Snake Animation - courtesy of https://blog.arnabghosh.me/add-github-dark-snake-animation-readme](https://github.com/brucestull/brucestull/blob/output/github-contribution-grid-snake.svg)
 
