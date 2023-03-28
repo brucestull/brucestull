@@ -6,21 +6,6 @@
 * My [Project Board](https://github.com/users/brucestull/projects/6/)
 * My [FlynntKnapp](https://github.com/FlynntKnapp/) organization
 * 🌱 I’m currently learning and/or reviewing:
-  * GitHub Codespaces (Docker related):
-    * This will assist in understanding Docker since they are similar concepts.
-    * Source:
-      * <https://github.com/github/codespaces-django>
-    * My Repository:
-      * <https://github.com/brucestull/codespaces-django-starter>
-      <!-- * <https://github.com/brucestull/animated-palm-tree> -->
-  * Docker
-  * Django:
-    * Django Testing:
-      * <https://github.com/brucestull/bruce-stull-heroku>
-    * Django password reset email
-    * Django auth with GitHub
-  * React
-  * Java review
   * MERN
     * <https://github.com/brucestull/mern-stack-tutorial>
 
