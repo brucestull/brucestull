@@ -6,9 +6,7 @@
 * My [LinkedIn](https://www.linkedin.com/in/bruce-stull/)
 * My [Project Board](https://github.com/users/brucestull/projects/6/)
 * My [FlynntKnapp](https://github.com/FlynntKnapp/) organization
-* 🌱 I’m currently learning and/or reviewing:
-  * MERN
-    * <https://github.com/brucestull/mern-stack-tutorial>
+<!-- * 🌱 I’m currently learning and/or reviewing: -->
 
 ![Snake Animation - courtesy of https://blog.arnabghosh.me/add-github-dark-snake-animation-readme](https://github.com/brucestull/brucestull/blob/output/github-contribution-grid-snake.svg)
 
