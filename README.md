@@ -5,7 +5,11 @@
 * Pronouns: He/Him
 * My [LinkedIn](https://www.linkedin.com/in/bruce-stull/)
 * My [Project Board](https://github.com/users/brucestull/projects/6/)
-* My [FlynntKnapp](https://github.com/FlynntKnapp/) organization
+* My Organizations:
+  * [FlynntKnapp](https://github.com/FlynntKnapp/)
+  * [FlynntKnapp-python](https://github.com/FlynntKnapp-python)
+  * [FlynntKnapp-django](https://github.com/FlynntKnapp-django)
+
 <!-- * 🌱 I’m currently learning and/or reviewing: -->
 
 ![Snake Animation - courtesy of https://blog.arnabghosh.me/add-github-dark-snake-animation-readme](https://github.com/brucestull/brucestull/blob/output/github-contribution-grid-snake.svg)
