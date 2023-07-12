@@ -10,6 +10,11 @@
   * [docker-playground](https://github.com/brucestull/docker-playground)
   * [DjangoStarter-codespaces](https://github.com/brucestull/DjangoStarter-codespaces)
 * Some of my favorite Django applications
+  * [DjangoStarter-heroku](https://github.com/brucestull/DjangoStarter-heroku)
+  * [blog-and-portfolio](https://github.com/brucestull/blog-and-portfolio)
+  * [boosts](https://github.com/brucestull/boosts)
+  * [career-organizerator](https://github.com/brucestull/career-organizerator)
+  * [flynnt-knapp](https://github.com/brucestull/flynnt-knapp)
 * My Organizations:
   * [FlynntKnapp](https://github.com/FlynntKnapp/)
   * [FlynntKnapp-python](https://github.com/FlynntKnapp-python)
