@@ -5,6 +5,11 @@
 * Pronouns: He/Him
 * My [LinkedIn](https://www.linkedin.com/in/bruce-stull/)
 * My [Project Board](https://github.com/users/brucestull/projects/6/)
+* Some of my container learning exercises
+  * [DockerDjangoStarter](https://github.com/brucestull/DockerDjangoStarter) - My version of XXX by YYY
+  * [docker-playground](https://github.com/brucestull/docker-playground)
+  * [DjangoStarter-codespaces](https://github.com/brucestull/DjangoStarter-codespaces)
+* Some of my favorite Django applications
 * My Organizations:
   * [FlynntKnapp](https://github.com/FlynntKnapp/)
   * [FlynntKnapp-python](https://github.com/FlynntKnapp-python)
