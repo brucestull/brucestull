@@ -15,7 +15,7 @@
   * [blog-and-portfolio](https://github.com/brucestull/blog-and-portfolio)
   * [boosts](https://github.com/brucestull/boosts)
   * [career-organizerator](https://github.com/brucestull/career-organizerator)
-  * [flynnt-knapp](https://github.com/brucestull/flynnt-knapp)
+  * [personal-assistant](https://github.com/brucestull/personal-assistant)
 * My Organizations:
   * [FlynntKnapp](https://github.com/FlynntKnapp/)
   * [FlynntKnapp-python](https://github.com/FlynntKnapp-python)
