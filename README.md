@@ -23,8 +23,9 @@
 
 <!-- * 🌱 I’m currently learning and/or reviewing: -->
 
-![Snake Animation - courtesy of https://blog.arnabghosh.me/add-github-dark-snake-animation-readme](https://github.com/brucestull/brucestull/blob/output/github-contribution-grid-snake.svg)
-
+<!-- ![Snake Animation - courtesy of https://blog.arnabghosh.me/add-github-dark-snake-animation-readme](https://github.com/brucestull/brucestull/blob/output/github-contribution-grid-snake.svg)
+ -->
+ 
 <!--
 **brucestull/brucestull** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
