@@ -8,14 +8,13 @@
 * Some of my Docker and/or container learning exercises
   * [DockerDjangoStarter](https://github.com/brucestull/DockerDjangoStarter)
   * [DockerDjangoStarter-CustomUser-tdio](https://github.com/brucestull/DockerDjangoStarter-CustomUser-tdio)
-  * [docker-playground](https://github.com/brucestull/docker-playground)
   * [DjangoStarter-codespaces](https://github.com/brucestull/DjangoStarter-codespaces)
 * Some of my favorite Django applications
   * [DjangoStarter-heroku](https://github.com/brucestull/DjangoStarter-heroku)
   * [blog-and-portfolio](https://github.com/brucestull/blog-and-portfolio)
   * [boosts](https://github.com/brucestull/boosts)
-  * [career-organizerator](https://github.com/brucestull/career-organizerator)
   * [personal-assistant](https://github.com/brucestull/personal-assistant)
+  * [three-d-print-tracker](https://github.com/brucestull/three-d-print-tracker)
 * My Organizations:
   * [FlynntKnapp](https://github.com/FlynntKnapp/)
   * [FlynntKnapp-python](https://github.com/FlynntKnapp-python)
