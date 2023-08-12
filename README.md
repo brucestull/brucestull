@@ -5,16 +5,16 @@
 * Pronouns: He/Him
 * My [LinkedIn](https://www.linkedin.com/in/bruce-stull/)
 * My [Project Board](https://github.com/users/brucestull/projects/6/)
-* Some of my Docker and/or container learning exercises
-  * [DockerDjangoStarter](https://github.com/brucestull/DockerDjangoStarter)
-  * [DockerDjangoStarter-CustomUser-tdio](https://github.com/brucestull/DockerDjangoStarter-CustomUser-tdio)
-  * [DjangoStarter-codespaces](https://github.com/brucestull/DjangoStarter-codespaces)
 * Some of my favorite Django applications
   * [DjangoStarter-heroku](https://github.com/brucestull/DjangoStarter-heroku)
   * [blog-and-portfolio](https://github.com/brucestull/blog-and-portfolio)
   * [boosts](https://github.com/brucestull/boosts)
   * [personal-assistant](https://github.com/brucestull/personal-assistant)
   * [three-d-print-tracker](https://github.com/brucestull/three-d-print-tracker)
+* Some of my Docker and/or container learning exercises
+  * [DockerDjangoStarter](https://github.com/brucestull/DockerDjangoStarter)
+  * [DockerDjangoStarter-CustomUser-tdio](https://github.com/brucestull/DockerDjangoStarter-CustomUser-tdio)
+  * [DjangoStarter-codespaces](https://github.com/brucestull/DjangoStarter-codespaces)
 * My Organizations:
   * [FlynntKnapp](https://github.com/FlynntKnapp/)
   * [FlynntKnapp-python](https://github.com/FlynntKnapp-python)
