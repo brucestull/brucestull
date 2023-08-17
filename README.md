@@ -12,8 +12,8 @@
   * [personal-assistant](https://github.com/brucestull/personal-assistant)
   * [three-d-print-tracker](https://github.com/brucestull/three-d-print-tracker)
 * Some of my Docker and/or container learning exercises
-  * [DockerDjangoStarter](https://github.com/brucestull/DockerDjangoStarter)
-  * [DockerDjangoStarter-CustomUser-tdio](https://github.com/brucestull/DockerDjangoStarter-CustomUser-tdio)
+  * [DockerDjangoStarter-nickjj](https://github.com/brucestull/DockerDjangoStarter-nickjj)
+  * [DockerDjangoStarter-tdio](https://github.com/brucestull/DockerDjangoStarter-tdio)
   * [DjangoStarter-codespaces](https://github.com/brucestull/DjangoStarter-codespaces)
 * My Organizations:
   * [FlynntKnapp](https://github.com/FlynntKnapp/)
