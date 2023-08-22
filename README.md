@@ -15,6 +15,8 @@
   * [DockerDjangoStarter-nickjj](https://github.com/brucestull/DockerDjangoStarter-nickjj)
   * [DockerDjangoStarter-tdio](https://github.com/brucestull/DockerDjangoStarter-tdio)
   * [DjangoStarter-codespaces](https://github.com/brucestull/DjangoStarter-codespaces)
+* Some utilities I have created
+  * [heroku-database-url-parser](https://github.com/brucestull/heroku-database-url-parser)
 * My Organizations:
   * [FlynntKnapp](https://github.com/orgs/FlynntKnapp/repositories)
   * [FlynntKnapp-python](https://github.com/orgs/FlynntKnapp-python/repositories)
