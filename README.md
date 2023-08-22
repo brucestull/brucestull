@@ -16,9 +16,9 @@
   * [DockerDjangoStarter-tdio](https://github.com/brucestull/DockerDjangoStarter-tdio)
   * [DjangoStarter-codespaces](https://github.com/brucestull/DjangoStarter-codespaces)
 * My Organizations:
-  * [FlynntKnapp](https://github.com/FlynntKnapp/)
-  * [FlynntKnapp-python](https://github.com/FlynntKnapp-python)
-  * [FlynntKnapp-django](https://github.com/FlynntKnapp-django)
+  * [FlynntKnapp](https://github.com/orgs/FlynntKnapp/repositories)
+  * [FlynntKnapp-python](https://github.com/orgs/FlynntKnapp-python/repositories)
+  * [FlynntKnapp-django](https://github.com/orgs/FlynntKnapp-django/repositories)
 
 <!-- * 🌱 I’m currently learning and/or reviewing: -->
 
