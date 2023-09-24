@@ -13,7 +13,7 @@
   * [three-d-print-tracker](https://github.com/brucestull/three-d-print-tracker)
 * Some of my Docker and/or container learning exercises
   * [DockerDjangoStarter-nickjj](https://github.com/brucestull/DockerDjangoStarter-nickjj)
-  * [DockerDjangoStarter-tdio](https://github.com/brucestull/DockerDjangoStarter-tdio)
+<!--  * [DockerDjangoStarter-tdio](https://github.com/brucestull/DockerDjangoStarter-tdio) -->
   * [DjangoStarter-codespaces](https://github.com/brucestull/DjangoStarter-codespaces)
 * Some utilities I have created
   * [heroku-database-url-parser](https://github.com/brucestull/heroku-database-url-parser)
