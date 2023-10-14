@@ -6,17 +6,20 @@
 * My [LinkedIn](https://www.linkedin.com/in/bruce-stull/)
 * My [Project Board](https://github.com/users/brucestull/projects/6/)
 * Some of my favorite Django applications
-  * [DjangoStarter-heroku](https://github.com/brucestull/DjangoStarter-heroku)
-  * [blog-and-portfolio](https://github.com/brucestull/blog-and-portfolio)
   * [boosts](https://github.com/brucestull/boosts)
   * [personal-assistant](https://github.com/brucestull/personal-assistant)
+  * [blog-and-portfolio](https://github.com/brucestull/blog-and-portfolio)
+  * [DjangoStarter-heroku](https://github.com/brucestull/DjangoStarter-heroku)
   * [three-d-print-tracker](https://github.com/brucestull/three-d-print-tracker)
 * Some of my Docker and/or container learning exercises
+  * [ADAPTED-docker-django-tdio](https://github.com/brucestull/ADAPTED-docker-django-tdio)
   * [DockerDjangoStarter-nickjj](https://github.com/brucestull/DockerDjangoStarter-nickjj)
   * [DjangoStarter-codespaces](https://github.com/brucestull/DjangoStarter-codespaces)
 <!--  * [DockerDjangoStarter-tdio](https://github.com/brucestull/DockerDjangoStarter-tdio) -->
 * Some utilities I have created
   * [heroku-database-url-parser](https://github.com/brucestull/heroku-database-url-parser)
+* GitHub REST API access
+  * [python-request-github-api](https://github.com/brucestull/python-request-github-api)
 * My Organizations:
   * [FlynntKnapp](https://github.com/orgs/FlynntKnapp/repositories)
   * [FlynntKnapp-python](https://github.com/orgs/FlynntKnapp-python/repositories)
