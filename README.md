@@ -6,7 +6,7 @@
 * My [LinkedIn](https://www.linkedin.com/in/bruce-stull/)
 * My [Project Board](https://github.com/users/brucestull/projects/6/)
 * My Django applications with CI/CD
-  * [personal-assistant](https://github.com/brucestull/personal-assistant)
+  * [boosts](https://github.com/brucestull/boosts)
   * [blog-and-portfolio](https://github.com/brucestull/blog-and-portfolio)
 * Some of my favorite Django applications
   * [boosts](https://github.com/brucestull/boosts)
