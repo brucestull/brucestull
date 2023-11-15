@@ -2,15 +2,14 @@
 
 ![Bruce's GitHub stats](https://github-readme-stats.vercel.app/api?username=brucestull&theme=vue&show_icons=true)
 
-* Pronouns: He/Him
 * My [LinkedIn](https://www.linkedin.com/in/bruce-stull/)
 * My [Project Board](https://github.com/users/brucestull/projects/6/)
-* My Django applications with CI/CD
+* My Django applications with CI/CD (CircleCI)
   * [boosts](https://github.com/brucestull/boosts)
   * [blog-and-portfolio](https://github.com/brucestull/blog-and-portfolio)
-* Some of my favorite Django applications
-  * [boosts](https://github.com/brucestull/boosts)
+  * [personal-assistant](https://github.com/brucestull/personal-assistant)
   * [DjangoStarter-heroku](https://github.com/brucestull/DjangoStarter-heroku)
+* Some of my favorite Django applications
   * [three-d-print-tracker](https://github.com/brucestull/three-d-print-tracker)
 * Some of my Docker and/or container learning exercises
   * [ADAPTED-docker-django-tdio](https://github.com/brucestull/ADAPTED-docker-django-tdio)
