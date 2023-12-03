@@ -4,9 +4,10 @@
 
 * My [LinkedIn](https://www.linkedin.com/in/bruce-stull/)
 * My [Project Board](https://github.com/users/brucestull/projects/6/)
-* My Django applications with CI/CD (CircleCI)
+* My Completed Django applications with CI/CD (CircleCI)
   * [boosts](https://github.com/brucestull/boosts)
   * [blog-and-portfolio](https://github.com/brucestull/blog-and-portfolio)
+* My Django Starter App with CI/CD (CircleCI)
   * [DjangoStarter-heroku](https://github.com/brucestull/DjangoStarter-heroku)
 * Some of my favorite Django applications
   * [three-d-print-tracker](https://github.com/brucestull/three-d-print-tracker)
