@@ -14,7 +14,7 @@
 * Some of my Docker and/or container learning exercises
   * [ADAPTED-docker-django-tdio](https://github.com/brucestull/ADAPTED-docker-django-tdio)
   * [DockerDjangoStarter-nickjj](https://github.com/brucestull/DockerDjangoStarter-nickjj)
-  * [DjangoStarter-codespaces](https://github.com/brucestull/DjangoStarter-codespaces)
+  <!--  * [DjangoStarter-codespaces](https://github.com/brucestull/DjangoStarter-codespaces) -->
 <!--  * [DockerDjangoStarter-tdio](https://github.com/brucestull/DockerDjangoStarter-tdio) -->
 * Some utilities I have created
   * [heroku-database-url-parser](https://github.com/brucestull/heroku-database-url-parser)
