@@ -21,7 +21,6 @@
 * My Organizations:
   * [FlynntKnapp](https://github.com/orgs/FlynntKnapp/repositories)
   * [FlynntKnapp-python](https://github.com/orgs/FlynntKnapp-python/repositories)
-  * [FlynntKnapp-django](https://github.com/orgs/FlynntKnapp-django/repositories)
   * [FlynntKnapp-Docker](https://github.com/orgs/FlynntKnapp-Docker/repositories)
 
 <!-- * 🌱 I’m currently learning and/or reviewing: -->
