@@ -21,8 +21,7 @@
 * My Organizations:
   * [FlynntKnapp](https://github.com/orgs/FlynntKnapp/repositories)
   * [FlynntKnapp-python](https://github.com/orgs/FlynntKnapp-python/repositories)
-  * [FlynntKnapp-Docker](https://github.com/orgs/FlynntKnapp-Docker/repositories)
-
+  
 <!-- * 🌱 I’m currently learning and/or reviewing: -->
 
 <!-- ![Snake Animation - courtesy of https://blog.arnabghosh.me/add-github-dark-snake-animation-readme](https://github.com/brucestull/brucestull/blob/output/github-contribution-grid-snake.svg)
